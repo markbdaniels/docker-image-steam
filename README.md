@@ -1,5 +1,5 @@
 # docker-image-steam
-Example Dockerfile which creates a docker container instance running [image-steam](https://www.npmjs.com/package/image-steam).
+Example Dockerfile which creates a docker container instance running [image-steam](https://www.npmjs.com/package/image-steam)
 
 ### Installation
 Create a isteam config file 

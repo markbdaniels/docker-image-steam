@@ -2,7 +2,7 @@
 Example Dockerfile which creates a docker container instance running [image-steam](https://www.npmjs.com/package/image-steam)
 
 ### Installation
-Create a isteam config file 
+Create a isteam config file.
 This example configures AWS S3 as a store and cache:
 ```json
 {
